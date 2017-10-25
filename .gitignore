@@ -1,0 +1,11 @@
+/bin
+/.gradle
+/.settings
+/build
+/.project
+/.classpath
+/*.log
+/logs
+/.git-credentials
+/.apt_generated/
+/.factorypath
